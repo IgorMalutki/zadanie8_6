@@ -54,9 +54,9 @@ if (value > 0) {
 	console.log ('Wynik dodatni');
 	alert ('Wynik dodatni');
 } else if (value < 0) {
-		alert ('Wynik ujemny');
-		console.log('Wynik ujemny');
-		} else {
-			alert ('Wynik równy zero');
-			console.log('Wynik równy zero');
-		}
+	alert ('Wynik ujemny');
+	console.log('Wynik ujemny');
+} else {
+	alert ('Wynik równy zero');
+	console.log('Wynik równy zero');
+}
